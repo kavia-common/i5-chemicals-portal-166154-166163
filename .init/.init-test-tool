@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/i5-chemicals-portal-166154-166163/chemical_distribution_frontend"
+}
